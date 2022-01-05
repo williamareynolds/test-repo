@@ -7,3 +7,7 @@
  2. Like this
 
 [link to cool thing](google.com)
+
+[different link type][ggl]
+
+[ggl]: google.com
