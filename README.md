@@ -12,4 +12,3 @@
 
 [link to cool thing](google.com)
 
-[different link type][ggl]
